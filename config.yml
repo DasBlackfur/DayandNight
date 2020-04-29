@@ -1,0 +1,18 @@
+---
+#set thoose things to the messages you want.
+ingameonly: Sorry, but this command only works only ingame.
+nopermission: Sorry, but you dont have the permission to use this command.
+succesday: Succesfully set the time to day.
+succesnight: Succesfully set the time to night.
+successet: Succesfully set the time to sunset.
+succesrise: Succesfully set the time to sunrise.
+succesmidday: Succesfully set the time to midday.
+succesmidnight: Succesfully set the time to midnight.
+avaiable: Following commands are avaiable.
+daycommandav: You can set the time to day.
+nightcommandav: You can set the time to night.
+setcommandav: You can set the time to sunset.
+risecommandav: You can set the time to sunrise.
+middaycommandav: You can set the time to midday.
+midnightcommandav: You can set the time to midnight.
+...

@@ -1,0 +1,70 @@
+---
+name: DayandNight
+version: 1.2.5-STABLE
+main: TheAMDGuy\DayandNight\Main
+api: [3.12.0, 3.12.1]
+commands:
+  day:
+    description: Sets the time to day.
+    usage: /day
+    aliases:
+      - tsd
+  night:
+    description: Sets the time to night.
+    usage: /night
+    aliases:
+      - tsn
+  set:
+    description: Sets the time to sunset.
+    usage: /set
+    aliases:
+      - tss
+  rise:
+    description: Sets the time to sunrise.
+    usage: /rise
+    aliases:
+      - tsr
+  midday:
+    description: Sets the time to midday.
+    usage: /midday
+    aliases:
+      - tsmd
+  midnight:
+    description: Sets the time to midnight.
+    usage: /midnight
+    aliases:
+      - tsmn
+  dayandnight:
+    description: Informates about all avaiable DayandNight commands.
+    usage: /dayandnight
+    aliases:
+      - dan
+      - daninfo
+      - danhelp
+permissions:
+  dan:
+    default: op
+    description: Permission for all DayandNight commands.
+    children:
+      dan.day:
+        default: op
+        description: Permission to set the time to day.
+      dan.night:
+        default: op
+        description: Permission to set the time to night.
+      dan.set:
+        default: op
+        description: Permission to set the time to set.
+      dan.rise:
+        default: op
+        description: Permission to set the time to rise.
+      dan.midday:
+        default: op
+        description: Permission to set the time to midday.
+      dan.midnight:
+        default: op
+        description: Permission to set the time to midnight.
+      dan.info:
+        default: op
+        description: Permission to get all avaiable DayandNight commands.
+...
