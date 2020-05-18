@@ -5,4 +5,5 @@ branches:
 projects:
   DayandNight:
     path: ""
+    icon: "icon.png"
 ...
