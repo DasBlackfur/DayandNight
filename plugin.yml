@@ -1,6 +1,6 @@
 ---
 name: DayandNight
-version: 1.2.5-STABLE
+version: 1.2.6-STABLE
 main: TheAMDGuy\DayandNight\Main
 api: [3.12.0, 3.12.1]
 commands:
