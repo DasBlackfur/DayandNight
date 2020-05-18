@@ -8,5 +8,6 @@ DayandNight Plugin for Pocketmine-MP
 /rise - Sets the time to sunrise.
 /midday - Sets the time to midday.
 /midnight - Sets the time to midnight.
+/dayandnight - Info about avaiable commands.
 ```
 
