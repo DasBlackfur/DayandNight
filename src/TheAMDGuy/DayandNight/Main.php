@@ -115,5 +115,6 @@ class Main extends PluginBase{
             $sender->sendMessage(TextFormat::DARK_RED.$this->config["ingameonly"]);
             return true;
         }
+		return true;
 	}
 }
