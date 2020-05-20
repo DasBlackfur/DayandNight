@@ -42,29 +42,29 @@ commands:
       - daninfo
       - danhelp
 permissions:
-  dan:
+  dayandnight:
     default: op
     description: Permission for all DayandNight commands.
     children:
-      dan.day:
+      dayandnight.day:
         default: op
         description: Permission to set the time to day.
-      dan.night:
+      dayandnight.night:
         default: op
         description: Permission to set the time to night.
-      dan.set:
+      dayandnight.set:
         default: op
         description: Permission to set the time to set.
-      dan.rise:
+      dayandnight.rise:
         default: op
         description: Permission to set the time to rise.
-      dan.midday:
+      dayandnight.midday:
         default: op
         description: Permission to set the time to midday.
-      dan.midnight:
+      dayandnight.midnight:
         default: op
         description: Permission to set the time to midnight.
-      dan.info:
+      dayandnight.info:
         default: op
         description: Permission to get all avaiable DayandNight commands.
 ...
