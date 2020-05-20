@@ -2,7 +2,7 @@
 name: DayandNight
 version: 1.2.6-STABLE
 main: TheAMDGuy\DayandNight\Main
-api: [3.12.0, 3.12.1]
+api: 3.0.0
 commands:
   day:
     description: Sets the time to day.
