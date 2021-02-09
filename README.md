@@ -1,3 +1,5 @@
+# This Repo is Archived as it doesn't serve any real purpose!
+
 # DayandNight
 DayandNight Plugin for Pocketmine-MP
 ## Features
